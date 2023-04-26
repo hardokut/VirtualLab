@@ -1,2 +1,2 @@
 # VirtualLab
-Virtual Lab Project
+Virtual Lab Senior Design Project
